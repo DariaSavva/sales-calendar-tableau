@@ -1,0 +1,33 @@
+# Tableau Files
+*.twb~
+*.tbm~
+*.tds~
+*.tdsx~
+Tableau Temp/
+
+# Tableau Backups
+*.bak
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Personal Notes
+notes.md
+todo.txt
