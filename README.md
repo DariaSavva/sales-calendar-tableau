@@ -363,25 +363,6 @@ By building this calendar, you'll learn:
 
 ---
 
-## 📈 Potential Extensions
-
-- **Weekly Aggregation**: Show week-level totals instead of daily
-- **Multiple Years**: Small multiples showing several years
-- **Forecast Integration**: Add predicted values for future dates
-- **Goal Tracking**: Overlay daily/weekly targets
-- **Drill-Down**: Click date to see transaction details
-
----
-
-## 🤝 Contributing
-
-Have ideas for improvements? Found a bug in the calculations? Feel free to:
-- Open an issue
-- Submit improvements
-- Share your customized version
-
----
-
 ## 📄 License
 
 This project is available under the MIT License - feel free to use and modify for your own purposes.
